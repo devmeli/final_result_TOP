@@ -12,6 +12,9 @@ The properties you need to add to each element are:
 ## Desired Outcome
 ![desired outcome](./desired-outcome.png)
 
+### My Result
+![desired outcome](./result.png)
+
 
 ### Self Check
 - Did you use all three methods of adding CSS to an HTML file?
@@ -19,3 +22,5 @@ The properties you need to add to each element are:
 - Does the `div` element have CSS added via the external method?
 - Does the `p` element have CSS added via the internal method?
 - Does the `button` element have CSS added via the inline method?
+
+
